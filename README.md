@@ -18,4 +18,7 @@
 <img aling="center" alt="reactnative" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div><br/>
 
-"O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo. Mesmo não atingindo o alvo, quem busca e vence obstáculos, no mínimo fará coisas admiráveis."
+
+"Só se pode alcançar um grande êxito quando nos mantemos fiéis a nós mesmos."
+
+Friedrich Nietzsche
